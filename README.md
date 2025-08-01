@@ -55,7 +55,7 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 
 ### 🧩 Dev Vibes
 <div align="center">
-  <img src="https://github.com/Aryangaikwadsql/Aryangaikwadsql/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
