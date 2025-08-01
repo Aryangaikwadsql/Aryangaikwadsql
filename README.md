@@ -25,14 +25,15 @@ Focus: Full Stack Web, Cybersecurity, AI Projects
 ```yaml
 Languages: [Java, Python, JavaScript, TypeScript, C++]
 Frameworks: [React, Next.js, Node.js, Flask, Express]
-Tools: [Firebase, Git, Docker, Figma, VS Code]
-APIs: [Claude API, RESTful, OpenRouter]
+Tools: [Firebase, Git, Docker, Figma, VS Code, Postman]
+APIs: [Claude API, RESTful, OpenRouter, Firebase SDK]
+DevOps: [GitHub Actions, Vercel, Netlify]
 ```
 
 ---
 
 ### ⚡ Fun Fact
-> I once built an AI project at 3 AM with zero caffeine, maximum bugs, and somehow… it worked. Chaos is my debugging strategy.
+> I once built an AI that roasts resumes — including mine. Brutal honesty included. 🔥
 
 ---
 
@@ -40,6 +41,7 @@ APIs: [Claude API, RESTful, OpenRouter]
 
 - **NutriLens**: AI-powered nutrition assistant built for production.
 - **GateLog**: Visitor management SaaS with role-based access and analytics.
+- **AI Roast My Resume**: Brutally honest resume roasting powered by AI.
 
 ---
 
@@ -53,7 +55,7 @@ APIs: [Claude API, RESTful, OpenRouter]
 
 ### 🧩 Dev Vibes
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Aryangaikwadsql/Aryangaikwadsql/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
