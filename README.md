@@ -53,12 +53,17 @@ APIs: [Claude API, RESTful, OpenRouter]
 
 ### 🧩 Dev Vibes
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
 
-> ⚙️ Always building. Always shipping. Always breaking the matrix.
+### 🎮 Bonus Bytes
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryangaikwadsql&theme=dracula&column=6" />
+</div>
+
+---
 
 ---
 
