@@ -14,4 +14,4 @@ Name: Aryan Gaikwad
 From: Mumbai 🏙️, India 🇮🇳
 Code Stack: Java | Python | React | Firebase | Tailwind | Node | Next.js | TypeScript | MongoDB
 Dreams: Tech Tycoon 💻 → 🚀 Solving real-world Indian problems with clean code & chaos
-Fun Fact: I turn caffeine ☕ + keyboard ⌨️ into code that slaps
+Fun Fact: I once built an AI project at 3 AM with zero caffeine, maximum bugs, and somehow… it worked. Chaos is my debugging strategy.
