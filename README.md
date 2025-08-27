@@ -33,7 +33,7 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 ---
 
 ### ⚡ Fun Fact
-> I once built an AI that roasts resumes — including mine. Brutal honesty included. 🔥
+> I’m building my own offline AI assistant (like Jarvis!) that listens, remembers, and helps me get things done—even when the internet isn’t. Think of it as my personal superhero sidekick! 🦸‍♂️
 
 ---
 
@@ -41,7 +41,6 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 
 - **NutriLens**: AI-powered nutrition assistant built for production.
 - **GateLog**: Visitor management SaaS with role-based access and analytics.
-- **AI Roast My Resume**: Brutally honest resume roasting powered by AI.
 
 ---
 
