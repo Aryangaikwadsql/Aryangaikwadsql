@@ -33,7 +33,7 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 ---
 
 ### ⚡ Fun Fact
-> I’m building my own offline AI assistant (like Jarvis!) that listens, remembers, and helps me get things done—even when the internet isn’t. Think of it as my personal superhero sidekick! 🦸‍♂️
+> I’m building my own offline AI assistant (like Jarvis!) that listens, remembers, and helps me get things done, even when the internet isn’t. Think of it as my personal superhero! 🦸‍♂️
 
 ---
 
@@ -41,6 +41,7 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 
 - **NutriLens**: AI-powered nutrition assistant built for production.
 - **GateLog**: Visitor management SaaS with role-based access and analytics.
+- **Captcha OCR Cropper**: A VS Code extension that opens a webview where you can load or paste an image, drag a crop rectangle, and run OCR on the cropped area using OCR.space.
 
 ---
 
@@ -71,5 +72,6 @@ DevOps: [GitHub Actions, Vercel, Netlify]
 ### 📬 Want to connect?
 - LinkedIn: https://www.linkedin.com/in/aryan-g-3093862ab/
 - GitHub: https://github.com/Aryangaikwadsql
+- Portfolio: https://myportfolio-ztso.vercel.app
 
 ---
