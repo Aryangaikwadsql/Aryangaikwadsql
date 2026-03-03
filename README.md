@@ -107,7 +107,6 @@ me.say_hi()
   <tr>
     <td align="center" width="130">
       <img src="college_logo.png"/><br/><br/>
-      <img src="https://img.shields.io/badge/VPPCOE-TPO-Coordinator-9D00FF?style=flat-square"/>
     </td>
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
