@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aryan%20Gaikwad&fontSize=65&fontAlignY=38&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Full%20Stack%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20IoT&descSize=22&descAlignY=62" />
+  <img src="assets/banner.gif" alt="Aryan Gaikwad" />
 </div>
 
 <p align="center">
