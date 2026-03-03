@@ -13,9 +13,7 @@
 ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=⚡+Full-Stack+Developer;🔐+Cybersecurity+%26+Network+Defense;🤖+AI+%7C+Anomaly+Detection+%7C+ML;📡+IoT+%26+Embedded+Systems;🏥+SwasthyaSetu+%7C+NutriLens+Builder;🔬+BARC+Trainee+%7C+Ensemble+Autoencoders;🚀+Always+Building+%7C+Always+Shipping" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=⚡+Full-Stack+Developer;🔐+Cybersecurity+%26+Network+Defense;🤖+AI+%7C+Anomaly+Detection+%7C+ML;📡+IoT+%26+Embedded+Systems;🏥+SwasthyaSetu+%7C+NutriLens+Builder;🔬+BARC+Trainee+%7C+Ensemble+Autoencoders;🚀+Always+Building+%7C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
