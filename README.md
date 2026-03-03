@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aryan%20Gaikwad&fontSize=70&color=0:00F7FF,100:9D00FF&stroke=00F7FF&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20IoT&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aryan%20Gaikwad&fontSize=65&fontAlignY=38&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Full%20Stack%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20IoT&descSize=22&descAlignY=62" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+real+world+tech+that+actually+matters;Cybersecurity+mindset+with+builder+execution;From+Mumbai+to+global+systems" />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-Stack+Dev+%7C+Cybersecurity+Nerd+%F0%9F%94%90;Building+AI+that+Actually+Matters+%F0%9F%A4%96;IoT+%7C+Telemedicine+%7C+Anomaly+Detection+%F0%9F%9A%80;BARC+Trainee+%7C+VPPCOE+Student+%F0%9F%87%AE%F0%9F%87%B3;Turning+Coffee+into+Code+since+2023+%E2%98%95" alt="Typing SVG" />
 </h1>
