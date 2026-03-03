@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Aryan Gaikwad – README Header Preview</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Rajdhani:wght@300;500;700&display=swap');
+
+  *{margin:0;padding:0;box-sizing:border-box;}
+
+  body{
+    background:#000;
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+    font-family:'Share Tech Mono', monospace;
+  }
+
+  /* ─── CANVAS BACKGROUND ─── */
+  #bg-canvas{
+    position:fixed;inset:0;z-index:0;
+  }
+
+  /* ─── GRID OVERLAY ─── */
+  .grid-overlay{
+    position:fixed;inset:0;z-index:1;
+    background-image:
+      linear-gradient(rgba(0,247,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,247,255,0.03) 1px, transparent 1px);
+    background-size:60px 60px;
+    animation:gridShift 20s linear infinite;
+  }
+  @keyframes gridShift{
+    0%{background-position:0 0;}
+    100%{background-position:60px 60px;}
+  }
+
+  /* ─── MAIN CONTAINER ─── */
+  .hero{
+    position:relative;z-index:10;
+    text-align:center;
+    padding:60px 40px;
+    max-width:900px;
+    width:100%;
+  }
+
+  /* ─── SCAN LINE ─── */
+  .hero::before{
+    content:'';
+    position:absolute;
+    top:0;left:0;right:0;
+    height:2px;
+    background:linear-gradient(90deg, transparent, #00F7FF, #9D00FF, #00F7FF, transparent);
+    animation:scanDown 3s ease-in-out infinite;
+    box-shadow: 0 0 20px #00F7FF, 0 0 40px #9D00FF;
+  }
+  @keyframes scanDown{
+    0%{top:0;opacity:1;}
+    50%{opacity:0.5;}
+    100%{top:100%;opacity:0;}
+  }
+
+  /* ─── BADGE ROW ─── */
+  .badge-row{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin-bottom:30px;
+    animation:fadeSlideDown 0.8s ease forwards;
+    opacity:0;
+    animation-delay:0.2s;
+  }
+  @keyframes fadeSlideDown{
+    from{opacity:0;transform:translateY(-20px);}
+    to{opacity:1;transform:translateY(0);}
+  }
+  .badge{
+    font-family:'Share Tech Mono',monospace;
+    font-size:11px;
+    letter-spacing:2px;
+    padding:5px 14px;
+    border:1px solid rgba(0,247,255,0.3);
+    color:rgba(0,247,255,0.7);
+    background:rgba(0,247,255,0.05);
+    text-transform:uppercase;
+    position:relative;
+    overflow:hidden;
+  }
+  .badge::after{
+    content:'';
+    position:absolute;inset:0;
+    background:linear-gradient(90deg, transparent, rgba(0,247,255,0.15), transparent);
+    transform:translateX(-100%);
+    animation:shimmer 3s ease-in-out infinite;
+  }
+  @keyframes shimmer{
+    0%{transform:translateX(-100%);}
+    60%,100%{transform:translateX(200%);}
+  }
+
+  /* ─── GLITCH NAME ─── */
+  .name-wrapper{
+    position:relative;
+    display:inline-block;
+    margin-bottom:8px;
+    animation:fadeSlideUp 1s ease forwards;
+    opacity:0;
+    animation-delay:0.5s;
+  }
+  @keyframes fadeSlideUp{
+    from{opacity:0;transform:translateY(30px);}
+    to{opacity:1;transform:translateY(0);}
+  }
+  .name-main{
+    font-family:'Orbitron',monospace;
+    font-size:clamp(42px, 8vw, 86px);
+    font-weight:900;
+    letter-spacing:0.06em;
+    color:#fff;
+    text-transform:uppercase;
+    position:relative;
+    display:block;
+    /* neon glow */
+    text-shadow:
+      0 0 10px rgba(0,247,255,0.8),
+      0 0 30px rgba(0,247,255,0.5),
+      0 0 60px rgba(0,247,255,0.3),
+      0 0 100px rgba(157,0,255,0.4);
+    animation:nameGlow 4s ease-in-out infinite alternate;
+  }
+  @keyframes nameGlow{
+    0%{
+      text-shadow:
+        0 0 10px rgba(0,247,255,0.9),
+        0 0 30px rgba(0,247,255,0.6),
+        0 0 70px rgba(0,247,255,0.3),
+        0 0 120px rgba(157,0,255,0.5);
+    }
+    100%{
+      text-shadow:
+        0 0 8px rgba(157,0,255,0.9),
+        0 0 25px rgba(157,0,255,0.6),
+        0 0 60px rgba(157,0,255,0.3),
+        0 0 100px rgba(0,247,255,0.5);
+    }
+  }
+
+  /* glitch layers */
+  .name-glitch{
+    position:absolute;inset:0;
+    font-family:'Orbitron',monospace;
+    font-size:clamp(42px, 8vw, 86px);
+    font-weight:900;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    pointer-events:none;
+    display:block;
+  }
+  .name-glitch.c1{
+    color:#00F7FF;
+    clip-path:polygon(0 10%, 100% 10%, 100% 35%, 0 35%);
+    animation:glitch1 6s steps(1) infinite;
+    opacity:0.7;
+  }
+  .name-glitch.c2{
+    color:#FF003C;
+    clip-path:polygon(0 60%, 100% 60%, 100% 80%, 0 80%);
+    animation:glitch2 6s steps(1) infinite;
+    opacity:0.6;
+  }
+  @keyframes glitch1{
+    0%,90%{transform:none;opacity:0;}
+    91%{transform:translate(-3px,0);opacity:0.7;}
+    92%{transform:translate(3px,1px);opacity:0.6;}
+    93%{transform:translate(-2px,-1px);opacity:0.8;}
+    94%,100%{transform:none;opacity:0;}
+  }
+  @keyframes glitch2{
+    0%,85%{transform:none;opacity:0;}
+    86%{transform:translate(4px,0);opacity:0.6;}
+    87%{transform:translate(-4px,2px);opacity:0.5;}
+    88%{transform:translate(2px,-2px);opacity:0.7;}
+    89%,100%{transform:none;opacity:0;}
+  }
+
+  /* ─── FIRSTNAME / LASTNAME split ─── */
+  .fn{
+    background:linear-gradient(90deg,#00F7FF,#ffffff);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text;
+  }
+  .ln{
+    background:linear-gradient(90deg,#ffffff,#9D00FF);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text;
+  }
+
+  /* ─── SUBTITLE TYPEWRITER ─── */
+  .subtitle{
+    font-family:'Rajdhani', sans-serif;
+    font-size:clamp(14px,2vw,20px);
+    font-weight:300;
+    letter-spacing:5px;
+    text-transform:uppercase;
+    color:rgba(0,247,255,0.7);
+    margin-top:12px;
+    margin-bottom:36px;
+    animation:fadeSlideUp 1s ease forwards;
+    opacity:0;
+    animation-delay:1s;
+  }
+  .cursor{
+    display:inline-block;
+    width:2px;height:1.1em;
+    background:#00F7FF;
+    vertical-align:middle;
+    margin-left:3px;
+    animation:blink 0.8s step-end infinite;
+  }
+  @keyframes blink{
+    50%{opacity:0;}
+  }
+
+  /* ─── ROLE PILLS ─── */
+  .pill-row{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:12px;
+    margin-bottom:40px;
+    animation:fadeSlideUp 1s ease forwards;
+    opacity:0;
+    animation-delay:1.3s;
+  }
+  .pill{
+    padding:8px 20px;
+    border-radius:2px;
+    font-family:'Share Tech Mono',monospace;
+    font-size:12px;
+    letter-spacing:2px;
+    text-transform:uppercase;
+    position:relative;
+    overflow:hidden;
+    cursor:default;
+    transition:transform 0.2s;
+  }
+  .pill:hover{transform:translateY(-3px);}
+  .pill-cyan{
+    background:rgba(0,247,255,0.08);
+    border:1px solid rgba(0,247,255,0.4);
+    color:#00F7FF;
+    box-shadow:0 0 15px rgba(0,247,255,0.2) inset;
+  }
+  .pill-purple{
+    background:rgba(157,0,255,0.08);
+    border:1px solid rgba(157,0,255,0.4);
+    color:#C060FF;
+    box-shadow:0 0 15px rgba(157,0,255,0.2) inset;
+  }
+  .pill-green{
+    background:rgba(0,255,136,0.08);
+    border:1px solid rgba(0,255,136,0.35);
+    color:#00FF88;
+    box-shadow:0 0 15px rgba(0,255,136,0.15) inset;
+  }
+  .pill::before{
+    content:'';
+    position:absolute;top:0;left:-100%;width:60%;height:100%;
+    background:linear-gradient(90deg,transparent,rgba(255,255,255,0.08),transparent);
+    animation:pillShine 4s ease-in-out infinite;
+  }
+  .pill:nth-child(2)::before{animation-delay:0.5s;}
+  .pill:nth-child(3)::before{animation-delay:1s;}
+  .pill:nth-child(4)::before{animation-delay:1.5s;}
+  .pill:nth-child(5)::before{animation-delay:2s;}
+  @keyframes pillShine{
+    0%{left:-100%;}
+    50%,100%{left:150%;}
+  }
+
+  /* ─── DIVIDER ─── */
+  .divider{
+    width:100%;
+    height:1px;
+    background:linear-gradient(90deg, transparent, rgba(0,247,255,0.5), rgba(157,0,255,0.5), transparent);
+    margin:10px 0 30px;
+    animation:fadeSlideUp 1s ease forwards;
+    opacity:0;
+    animation-delay:1.6s;
+    position:relative;
+  }
+  .divider::after{
+    content:'◈';
+    position:absolute;
+    left:50%;transform:translateX(-50%) translateY(-50%);
+    color:#00F7FF;
+    font-size:16px;
+    background:#000;
+    padding:0 10px;
+    animation:rotateDiamond 8s linear infinite;
+  }
+  @keyframes rotateDiamond{
+    0%{transform:translateX(-50%) translateY(-50%) rotate(0deg);}
+    100%{transform:translateX(-50%) translateY(-50%) rotate(360deg);}
+  }
+
+  /* ─── SOCIAL LINKS ─── */
+  .social-row{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    animation:fadeSlideUp 1s ease forwards;
+    opacity:0;
+    animation-delay:1.9s;
+  }
+  .social-btn{
+    padding:10px 28px;
+    font-family:'Share Tech Mono',monospace;
+    font-size:12px;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    text-decoration:none;
+    position:relative;
+    transition:all 0.3s;
+    color:#fff;
+    clip-path:polygon(8px 0%, 100% 0%, calc(100% - 8px) 100%, 0% 100%);
+  }
+  .social-btn.primary{
+    background:linear-gradient(135deg,rgba(0,247,255,0.15),rgba(157,0,255,0.15));
+    border:1px solid rgba(0,247,255,0.5);
+  }
+  .social-btn.primary:hover{
+    background:linear-gradient(135deg,rgba(0,247,255,0.3),rgba(157,0,255,0.3));
+    box-shadow:0 0 30px rgba(0,247,255,0.4);
+    transform:translateY(-2px);
+  }
+
+  /* ─── CORNER DECORATIONS ─── */
+  .corner{
+    position:absolute;
+    width:20px;height:20px;
+  }
+  .corner.tl{top:20px;left:20px;border-top:2px solid #00F7FF;border-left:2px solid #00F7FF;}
+  .corner.tr{top:20px;right:20px;border-top:2px solid #9D00FF;border-right:2px solid #9D00FF;}
+  .corner.bl{bottom:20px;left:20px;border-bottom:2px solid #00F7FF;border-left:2px solid #00F7FF;}
+  .corner.br{bottom:20px;right:20px;border-bottom:2px solid #9D00FF;border-right:2px solid #9D00FF;}
+
+  /* ─── STATUS INDICATOR ─── */
+  .status{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:11px;letter-spacing:3px;color:rgba(0,255,136,0.8);
+    margin-bottom:20px;
+    animation:fadeSlideDown 0.8s ease forwards;opacity:0;animation-delay:0.1s;
+  }
+  .status-dot{
+    width:8px;height:8px;border-radius:50%;
+    background:#00FF88;
+    box-shadow:0 0 10px #00FF88;
+    animation:pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse{
+    0%,100%{box-shadow:0 0 6px #00FF88;}
+    50%{box-shadow:0 0 18px #00FF88,0 0 30px rgba(0,255,136,0.4);}
+  }
+
+  /* ─── README CODE BLOCK ─── */
+  .readme-note{
+    margin-top:60px;
+    font-family:'Share Tech Mono',monospace;
+    font-size:11px;
+    color:rgba(0,247,255,0.35);
+    letter-spacing:1px;
+    text-align:center;
+    animation:fadeSlideUp 1s ease forwards;opacity:0;animation-delay:2.2s;
+  }
+  .readme-note span{color:rgba(157,0,255,0.5);}
+</style>
+</head>
+<body>
+
+<canvas id="bg-canvas"></canvas>
+<div class="grid-overlay"></div>
+
+<div class="hero">
+  <!-- Corner accents -->
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+
+  <!-- Status -->
+  <div class="status">
+    <div class="status-dot"></div>
+    AVAILABLE FOR OPPORTUNITIES
+  </div>
+
+  <!-- Top badges -->
+  <div class="badge-row">
+    <div class="badge">Mumbai, India 🇮🇳</div>
+    <div class="badge">VPPCOE · IT · 2027</div>
+    <div class="badge">BARC Trainee</div>
+  </div>
+
+  <!-- GLITCH NAME -->
+  <div class="name-wrapper">
+    <span class="name-glitch c1" aria-hidden="true">ARYAN GAIKWAD</span>
+    <span class="name-glitch c2" aria-hidden="true">ARYAN GAIKWAD</span>
+    <span class="name-main">
+      <span class="fn">ARYAN</span>&nbsp;<span class="ln">GAIKWAD</span>
+    </span>
+  </div>
+
+  <!-- Subtitle typewriter -->
+  <div class="subtitle" id="subtitle-text"></div>
+
+  <!-- Role pills -->
+  <div class="pill-row">
+    <div class="pill pill-cyan">⚡ Full-Stack Dev</div>
+    <div class="pill pill-purple">🔐 Cybersecurity</div>
+    <div class="pill pill-green">🤖 AI / ML</div>
+    <div class="pill pill-cyan">📡 IoT & Embedded</div>
+    <div class="pill pill-purple">☁️ Cloud</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- Social links -->
+  <div class="social-row">
+    <a href="https://www.linkedin.com/in/aryan-g-3093862ab" class="social-btn primary">LinkedIn</a>
+    <a href="https://github.com/Aryangaikwadsql" class="social-btn primary">GitHub</a>
+    <a href="https://portfolio-aryan-gaikwad.vercel.app/" class="social-btn primary">Portfolio</a>
+  </div>
+</div>
+
+<div class="readme-note">
+  ✦ preview of your enhanced github readme header ✦<br/>
+  <span>copy the markdown snippets below into your README.md</span>
+</div>
+
+<script>
+// ─── PARTICLE CANVAS ───────────────────────────────────────────
+const canvas = document.getElementById('bg-canvas');
+const ctx = canvas.getContext('2d');
+let W, H, particles=[], lines=[];
+
+function resize(){
+  W=canvas.width=window.innerWidth;
+  H=canvas.height=window.innerHeight;
+}
+resize();
+window.addEventListener('resize',resize);
+
+class Particle{
+  constructor(){this.reset();}
+  reset(){
+    this.x=Math.random()*W;
+    this.y=Math.random()*H;
+    this.r=Math.random()*1.5+0.3;
+    this.vx=(Math.random()-0.5)*0.4;
+    this.vy=(Math.random()-0.5)*0.4;
+    this.alpha=Math.random()*0.5+0.1;
+    this.color=Math.random()>0.6?'0,247,255':'157,0,255';
+  }
+  update(){
+    this.x+=this.vx;this.y+=this.vy;
+    if(this.x<0||this.x>W||this.y<0||this.y>H) this.reset();
+  }
+  draw(){
+    ctx.beginPath();
+    ctx.arc(this.x,this.y,this.r,0,Math.PI*2);
+    ctx.fillStyle=`rgba(${this.color},${this.alpha})`;
+    ctx.fill();
+  }
+}
+
+for(let i=0;i<120;i++) particles.push(new Particle());
+
+// shooting stars
+class ShootingStar{
+  constructor(){this.init();}
+  init(){
+    this.x=Math.random()*W*0.5;
+    this.y=Math.random()*H*0.3;
+    this.len=Math.random()*120+60;
+    this.speed=Math.random()*8+4;
+    this.angle=Math.PI/4;
+    this.alpha=1;
+    this.active=false;
+    this.timer=Math.random()*300;
+  }
+  update(){
+    if(this.timer>0){this.timer--;return;}
+    if(!this.active){this.active=true;}
+    this.x+=Math.cos(this.angle)*this.speed;
+    this.y+=Math.sin(this.angle)*this.speed;
+    this.alpha-=0.02;
+    if(this.alpha<=0) this.init();
+  }
+  draw(){
+    if(!this.active||this.alpha<=0) return;
+    const grad=ctx.createLinearGradient(
+      this.x,this.y,
+      this.x-Math.cos(this.angle)*this.len,
+      this.y-Math.sin(this.angle)*this.len
+    );
+    grad.addColorStop(0,`rgba(0,247,255,${this.alpha})`);
+    grad.addColorStop(1,'transparent');
+    ctx.strokeStyle=grad;
+    ctx.lineWidth=1.5;
+    ctx.beginPath();
+    ctx.moveTo(this.x,this.y);
+    ctx.lineTo(this.x-Math.cos(this.angle)*this.len,this.y-Math.sin(this.angle)*this.len);
+    ctx.stroke();
+  }
+}
+
+const stars=[new ShootingStar(),new ShootingStar(),new ShootingStar()];
+
+function drawConnections(){
+  for(let i=0;i<particles.length;i++){
+    for(let j=i+1;j<particles.length;j++){
+      const dx=particles[i].x-particles[j].x;
+      const dy=particles[i].y-particles[j].y;
+      const dist=Math.sqrt(dx*dx+dy*dy);
+      if(dist<100){
+        ctx.beginPath();
+        ctx.moveTo(particles[i].x,particles[i].y);
+        ctx.lineTo(particles[j].x,particles[j].y);
+        const a=(1-dist/100)*0.08;
+        ctx.strokeStyle=`rgba(0,247,255,${a})`;
+        ctx.lineWidth=0.5;
+        ctx.stroke();
+      }
+    }
+  }
+}
+
+function animate(){
+  ctx.clearRect(0,0,W,H);
+  // deep space gradient
+  const bg=ctx.createRadialGradient(W/2,H/2,0,W/2,H/2,Math.max(W,H)*0.7);
+  bg.addColorStop(0,'rgba(3,5,20,1)');
+  bg.addColorStop(0.5,'rgba(1,2,12,1)');
+  bg.addColorStop(1,'rgba(0,0,5,1)');
+  ctx.fillStyle=bg;
+  ctx.fillRect(0,0,W,H);
+
+  drawConnections();
+  particles.forEach(p=>{p.update();p.draw();});
+  stars.forEach(s=>{s.update();s.draw();});
+  requestAnimationFrame(animate);
+}
+animate();
+
+// ─── TYPEWRITER ─────────────────────────────────────────────────
+const phrases=[
+  'Full-Stack Developer',
+  'Cybersecurity Nerd 🔐',
+  'AI & Anomaly Detection',
+  'IoT & Embedded Systems',
+  'BARC Trained Engineer',
+  'Building What Matters 🚀',
+];
+let pi=0,ci=0,deleting=false;
+const el=document.getElementById('subtitle-text');
+
+function type(){
+  const phrase=phrases[pi];
+  if(!deleting){
+    el.innerHTML=phrase.slice(0,ci+1)+'<span class="cursor"></span>';
+    ci++;
+    if(ci===phrase.length){deleting=true;setTimeout(type,2000);return;}
+  } else {
+    el.innerHTML=phrase.slice(0,ci-1)+'<span class="cursor"></span>';
+    ci--;
+    if(ci===0){deleting=false;pi=(pi+1)%phrases.length;}
+  }
+  setTimeout(type,deleting?40:90);
+}
+setTimeout(type,1500);
+</script>
+</body>
+</html>
