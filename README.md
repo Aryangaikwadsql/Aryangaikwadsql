@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="Aryan Gaikwad" />
+  <img src="/banner.gif" alt="Aryan Gaikwad" />
 </div>
 
 
