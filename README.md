@@ -1,77 +1,61 @@
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════
-     ANIMATED HEADER BANNER — CINEMATIC VENOM WAVE
-═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=⚡+Full-Stack+Developer;🔐+Cybersecurity+%26+Network+Defense;🤖+AI+%7C+Anomaly+Detection+%7C+ML;📡+IoT+%26+Embedded+Systems;🏥+SwasthyaSetu+%7C+NutriLens+Builder;🔬+BARC+Trainee;🚀+Always+Building+%7C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Aryan%20Gaikwad&fontSize=70&color=0:00F7FF,100:9D00FF&stroke=00F7FF&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20IoT&descSize=20&descAlignY=75" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════
-     GLOWING TYPING SVG — ROLE CYCLER
-═══════════════════════════════════════════════════════ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-Stack+Dev+%7C+Cybersecurity+Nerd+%F0%9F%94%90;Building+AI+that+Actually+Matters+%F0%9F%A4%96;IoT+%7C+Telemedicine+%7C+Anomaly+Detection+%F0%9F%9A%80;BARC+Trainee+%7C+VPPCOE+Student+%F0%9F%87%AE%F0%9F%87%B3;Turning+Coffee+into+Code+since+2023+%E2%98%95" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=⚡+Full-Stack+Developer;🔐+Cybersecurity+%26+Network+Defense;🤖+AI+%7C+Anomaly+Detection+%7C+ML;📡+IoT+%26+Embedded+Systems;🏥+SwasthyaSetu+%7C+NutriLens+Builder;🔬+BARC+Trainee+%7C+Ensemble+Autoencoders;🚀+Always+Building+%7C+Always+Shipping" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=👁️+Profile+Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
 
-<!-- ═══════════════════════════════════════════════════════
-     STATUS BAR — PROFILE VIEWS + OPEN TO WORK
-═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=👁️+Profile+Views&color=00F7FF&style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-00FF88?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Location-Mumbai,_India-9D00FF?style=for-the-badge)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════
-     ANIMATED SOCIAL LINKS
-═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/aryan-g-3093862ab)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Aryangaikwadsql)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF3D00)](https://portfolio-aryan-gaikwad.vercel.app/)
-
-<br/>
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF10,100:9D00FF10&height=1&section=header" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-g-3093862ab">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Aryangaikwadsql">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-aryan-gaikwad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                   ARYAN GAIKWAD  v2.0                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name      :  Aryan Gaikwad                                 ║
-║  Location  :  Mumbai, India 🇮🇳                              ║
-║  Uni       :  VPPCOE  ·  Information Technology  ·  2027    ║
-║  Status    :  Debugging Life... 🐛  Always Building 🔨      ║
-╠══════════════════════════════════════════════════════════════╣
-║  Currently Hacking On:                                       ║
-║    🏥  SwasthyaSetu  — offline telemedicine (IVR + BT Mesh) ║
-║    🥗  NutriLens     — AI-powered nutrition analysis         ║
-║    🔐  Network Intrusion Detection Systems                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  Core Interests:                                             ║
-║    ⚡  Full-Stack Web Development                            ║
-║    🔐  Cybersecurity & Network Defense                       ║
-║    🤖  AI / ML & Anomaly Detection                          ║
-║    📡  IoT & Embedded Systems                               ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║         ARYAN GAIKWAD v2.0              ║
+╠══════════════════════════════════════════╣
+║  Name     : Aryan Gaikwad               ║
+║  Location : Mumbai, India 🇮🇳            ║
+║  Uni      : VPPCOE (IT, 2023-2027)      ║
+║  Mode     : Always Building 🔨          ║
+║  Status   : Debugging Life... 🐛        ║
+╠══════════════════════════════════════════╣
+║  Interests:                             ║
+║  ⚡ Full-Stack Web Development          ║
+║  🔐 Cybersecurity & Network Defense     ║
+║  🤖 AI/ML & Anomaly Detection           ║
+║  📡 IoT & Embedded Systems              ║
+╚══════════════════════════════════════════╝
 ```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  &nbsp;&nbsp;<b>What I'm currently hacking on</b>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</div>
+
+<br/>
 
 ```python
 class AryanGaikwad:
@@ -91,8 +75,6 @@ class AryanGaikwad:
 me = AryanGaikwad()
 me.say_hi()
 ```
-
----
 
 ## 🎓 Education
 
@@ -141,7 +123,9 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=🛠️+Things+I've+Built...;Projects+That+Solve+Real+Problems+🌍" alt="Projects heading" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"/>
+  &nbsp;&nbsp;<b>Things I've Built </b>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"/>
 </div>
 
 <br/>
@@ -195,6 +179,15 @@ me.say_hi()
       🖼️ Crop any image inside VS Code<br/>
       🔍 Run OCR on selected region instantly<br/>
       ⚡ Lightweight developer productivity tool
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"> More Coming Soon...</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
+      </div><br/>
+      Always building, always shipping 🚢<br/>
+      Check <a href="https://github.com/Aryangaikwadsql?tab=repositories">my repos</a> for the latest!
+    </td>
   </tr>
 </table>
 
@@ -203,20 +196,24 @@ me.say_hi()
 ## 🧠 Tech Stack
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark&perline=7" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow&theme=dark&perline=6" />
-
-**Tools & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
-
+  &nbsp;&nbsp;<b>Languages</b>&nbsp;&nbsp;
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark&perline=7" />
+</p>
+
+<div align="center"><b>Frameworks & Libraries</b></div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow&theme=dark&perline=6" />
+</p>
+
+<div align="center"><b>Tools & Cloud</b></div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
+</p>
 
 <br/>
 
@@ -280,21 +277,27 @@ me.say_hi()
 ## 📬 Let's Connect & Build Something Insane
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=DMs+are+open!+Let's+collab+🤝;Got+an+insane+idea%3F+Let's+build+it+🔥;Open+to+internships+%26+projects+🚀" alt="Connect" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-g-3093862ab)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Aryangaikwadsql-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryangaikwadsql)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-gaikwad.vercel.app)
-
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"/>
+  &nbsp;
+  <em><b>I love connecting with people</b> if you want to say hi or collab, DMs are open! 👇</em>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════
-     ANIMATED FOOTER WAVE
-═══════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,50:00F7FF,100:9D00FF&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20⚡&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-g-3093862ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aryangaikwadsql">
+    <img src="https://img.shields.io/badge/GitHub-Aryangaikwadsql-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-aryan-gaikwad.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
+</div>
