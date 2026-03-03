@@ -21,7 +21,6 @@
 Name        : Aryan Gaikwad
 Location    : Mumbai, India 🇮🇳
 University  : VPPCOE B.E. in Information Technology (2023–2027)
-CGPA        : 8.29 / 10
 Interests   : Full-Stack Web · Cybersecurity · AI/ML · IoT
 ```
 
