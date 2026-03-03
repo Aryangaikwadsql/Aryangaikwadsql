@@ -42,7 +42,7 @@ Interests   : Full-Stack Web · Cybersecurity · AI/ML · IoT
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" width="80" />
+      <img src="barclogo.png" width="80" />
     </td>
     <td>
       <b>🔬 Project Trainee — Bhabha Atomic Research Centre (BARC)</b><br/>
@@ -56,7 +56,7 @@ Interests   : Full-Stack Web · Cybersecurity · AI/ML · IoT
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://via.placeholder.com/80x80?text=VPPCOE" width="80" />
+      <img src="college_logo.png" width="80" />
     </td>
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
