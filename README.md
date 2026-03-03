@@ -36,13 +36,12 @@
 ╠══════════════════════════════════════╣
 ║  Name     : Aryan Gaikwad            ║
 ║  Location : Mumbai, India 🇮🇳         ║
-║  Uni      : VPPCOE (IT, 2023–2027)   ║
-║  CGPA     : 8.29 / 10 📈             ║
-║  Mode     : Always Building 🔨        ║
+║  Uni      : VPPCOE (IT, 2023–2027)   ║           ║
+║  Mode     : Always Building 🔨       ║
 ║  Status   : Debugging Life... 🐛     ║
 ╠══════════════════════════════════════╣
 ║  Interests:                          ║
-║  ⚡ Full-Stack Web Development        ║
+║  ⚡ Full-Stack Web Development       ║
 ║  🔐 Cybersecurity & Network Defense  ║
 ║  🤖 AI/ML & Anomaly Detection        ║
 ║  📡 IoT & Embedded Systems           ║
@@ -72,7 +71,6 @@ class AryanGaikwad:
             "🥗 NutriLens — AI nutrition analysis app",
             "🔐 Exploring network intrusion detection systems"
         ]
-        self.fun_fact   = "I built a healthcare platform that works with ZERO internet 🚀"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something insane together 🔥")
@@ -80,8 +78,6 @@ class AryanGaikwad:
 me = AryanGaikwad()
 me.say_hi()
 ```
-
----
 
 ## 🎓 Education
 
@@ -98,7 +94,7 @@ me.say_hi()
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" width="85" /><br/>
+      <img src="barclogo.png" width="85" /><br/>
       <img src="https://img.shields.io/badge/BARC-Verified-00FF88?style=flat-square"/>
     </td>
     <td>
@@ -119,7 +115,7 @@ me.say_hi()
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
       <i>Sion, Mumbai</i><br/>
-      <img src="https://img.shields.io/badge/Feb%202025-Aug%202025-9D00FF?style=flat-square"/><br/><br/>
+      <img src="college_logo.png"/><br/><br/>
       - Coordinated debugging support & technical issue resolution for national hackathon <b>Quasar 3.0</b><br/>
       - Supported campus recruitment drives & student–company interactions<br/>
       - Resolved event and placement workflow issues in real-time
@@ -133,7 +129,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"/>
-  &nbsp;&nbsp;<b>Things I've Built That I'm Proud Of</b>&nbsp;&nbsp;
+  &nbsp;&nbsp;<b>Things I've Built </b>&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"/>
 </div>
 
