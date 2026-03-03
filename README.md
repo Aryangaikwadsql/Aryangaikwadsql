@@ -4,8 +4,8 @@
      ANIMATED HEADER BANNER — CINEMATIC VENOM WAVE
 ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ARYAN%20GAIKWAD&fontSize=75&color=0:00F7FF,50:9D00FF,100:00F7FF&stroke=00F7FF&strokeWidth=3&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20IoT&descSize=18&descAlignY=78&fontAlignY=45" width="100%"/>
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=⚡+Full-Stack+Developer;🔐+Cybersecurity+%26+Network+Defense;🤖+AI+%7C+Anomaly+Detection+%7C+ML;📡+IoT+%26+Embedded+Systems;🏥+SwasthyaSetu+%7C+NutriLens+Builder;🔬+BARC+Trainee;🚀+Always+Building+%7C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
