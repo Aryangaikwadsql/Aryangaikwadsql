@@ -112,7 +112,6 @@ me.say_hi()
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
       <i>Sion, Mumbai</i><br/>
-      <img src="https://img.shields.io/badge/Feb%202025-Aug%202025-9D00FF?style=flat-square"/><br/><br/>
       - Coordinated debugging support & technical issue resolution for national hackathon <b>Quasar 3.0</b><br/>
       - Supported campus recruitment drives & student–company interactions<br/>
       - Resolved event and placement workflow issues in real-time
@@ -148,7 +147,7 @@ me.say_hi()
       📡 Offline-first telemedicine — <b>no internet required</b><br/>
       🪪 Unique patient ID generation & symptom triage<br/>
       📋 Automated medical report delivery<br/>
-      ✅ Validated by <b>Dr R N Cooper Hospital</b><br/>
+      ✅ Mentored by the CMO of <b>Dr R N Cooper Hospital</b><br/>
       <br/><code>Sept 2025 – Present</code>
     </td>
     <td width="50%" valign="top">
@@ -184,7 +183,7 @@ me.say_hi()
       ⚡ Lightweight developer productivity tool
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔭 More Coming Soon...</h3>
+      <h3 align="center"> More Coming Soon...</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
       </div><br/>
