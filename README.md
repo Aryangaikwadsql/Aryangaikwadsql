@@ -26,26 +26,24 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" />
-
 ## 👨‍💻 About Me
 
 ```yaml
-╔══════════════════════════════════════╗
-║         ARYAN GAIKWAD v2.0           ║
-╠══════════════════════════════════════╣
-║  Name     : Aryan Gaikwad            ║
-║  Location : Mumbai, India 🇮🇳         ║
-║  Uni      : VPPCOE (IT, 2023–2027)   ║           ║
-║  Mode     : Always Building 🔨       ║
-║  Status   : Debugging Life... 🐛     ║
-╠══════════════════════════════════════╣
-║  Interests:                          ║
-║  ⚡ Full-Stack Web Development       ║
-║  🔐 Cybersecurity & Network Defense  ║
-║  🤖 AI/ML & Anomaly Detection        ║
-║  📡 IoT & Embedded Systems           ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║         ARYAN GAIKWAD v2.0              ║
+╠══════════════════════════════════════════╣
+║  Name     : Aryan Gaikwad               ║
+║  Location : Mumbai, India 🇮🇳            ║
+║  Uni      : VPPCOE (IT, 2023-2027)      ║
+║  Mode     : Always Building 🔨          ║
+║  Status   : Debugging Life... 🐛        ║
+╠══════════════════════════════════════════╣
+║  Interests:                             ║
+║  ⚡ Full-Stack Web Development          ║
+║  🔐 Cybersecurity & Network Defense     ║
+║  🤖 AI/ML & Anomaly Detection           ║
+║  📡 IoT & Embedded Systems              ║
+╚══════════════════════════════════════════╝
 ```
 
 <br clear="right"/>
