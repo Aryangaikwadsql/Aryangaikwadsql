@@ -3,12 +3,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-Stack+Dev+%7C+Cybersecurity+Nerd+%F0%9F%94%90;Building+AI+that+Actually+Matters+%F0%9F%A4%96;IoT+%7C+Telemedicine+%7C+Anomaly+Detection+%F0%9F%9A%80;BARC+Trained+%7C+VPPCOE+Student+%F0%9F%87%AE%F0%9F%87%B3;Turning+Coffee+into+Code+since+2023+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-Stack+Dev+%7C+Cybersecurity+Nerd+%F0%9F%94%90;Building+AI+that+Actually+Matters+%F0%9F%A4%96;IoT+%7C+Telemedicine+%7C+Anomaly+Detection+%F0%9F%9A%80;BARC+Trainee+%7C+VPPCOE+Student+%F0%9F%87%AE%F0%9F%87%B3;Turning+Coffee+into+Code+since+2023+%E2%98%95" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=👁️+Profile+Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Aryangaikwadsql?label=Followers&style=for-the-badge&color=9D00FF&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
