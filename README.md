@@ -116,6 +116,7 @@ me.say_hi()
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
       <i>Sion, Mumbai</i><br/>
       <img src="college_logo.png"/><br/><br/>
+      <img src="https://img.shields.io/badge/Feb%202025-Aug%202025-9D00FF?style=flat-square"/><br/><br/>
       - Coordinated debugging support & technical issue resolution for national hackathon <b>Quasar 3.0</b><br/>
       - Supported campus recruitment drives & student–company interactions<br/>
       - Resolved event and placement workflow issues in real-time
