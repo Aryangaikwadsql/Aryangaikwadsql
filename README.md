@@ -109,13 +109,12 @@ me.say_hi()
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://via.placeholder.com/85x85/9D00FF/ffffff?text=VPPCOE" width="85" /><br/>
+      <img src="college_logo.png"/><br/><br/>
       <img src="https://img.shields.io/badge/VPPCOE-Coordinator-9D00FF?style=flat-square"/>
     </td>
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
       <i>Sion, Mumbai</i><br/>
-      <img src="college_logo.png"/><br/><br/>
       <img src="https://img.shields.io/badge/Feb%202025-Aug%202025-9D00FF?style=flat-square"/><br/><br/>
       - Coordinated debugging support & technical issue resolution for national hackathon <b>Quasar 3.0</b><br/>
       - Supported campus recruitment drives & student–company interactions<br/>
@@ -203,9 +202,7 @@ me.say_hi()
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45"/>
   &nbsp;&nbsp;<b>Languages</b>&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45"/>
 </div>
 
 <p align="center">
