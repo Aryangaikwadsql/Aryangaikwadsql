@@ -2,9 +2,6 @@
   <img src="assets/banner.gif" alt="Aryan Gaikwad" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+real+world+tech+that+actually+matters;Cybersecurity+mindset+with+builder+execution;From+Mumbai+to+global+systems" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=👁️+Profile+Views&color=00F7FF&style=for-the-badge" />
