@@ -110,7 +110,7 @@ me.say_hi()
   <tr>
     <td align="center" width="130">
       <img src="college_logo.png"/><br/><br/>
-      <img src="https://img.shields.io/badge/VPPCOE-Coordinator-9D00FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/VPPCOE-TPO-Coordinator-9D00FF?style=flat-square"/>
     </td>
     <td>
       <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
@@ -209,13 +209,13 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark&perline=7" />
 </p>
 
-<div align="center"><b>⚙️ Frameworks & Libraries</b></div>
+<div align="center"><b>Frameworks & Libraries</b></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow&theme=dark&perline=6" />
 </p>
 
-<div align="center"><b>🛠️ Tools & Cloud</b></div>
+<div align="center"><b>Tools & Cloud</b></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
