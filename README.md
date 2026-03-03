@@ -136,7 +136,6 @@ me.say_hi()
       <h3 align="center">🏥 SwasthyaSetu</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Active-00FF88?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Impact-Lives%20Saved-FF4444?style=for-the-badge"/>
       </div><br/>
       <b>Rural Healthcare Connectivity Platform</b><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
