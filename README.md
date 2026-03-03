@@ -11,6 +11,7 @@
 ---
 
 ### 👨‍💻 Who Am I
+
 ```yaml
 Name: Aryan Gaikwad
 Location: Mumbai, India 🇮🇳
@@ -19,78 +20,90 @@ Degree: B.E. in Information Technology (Aug 2023 – May 2027)
 CGPA: 8.29/10
 Focus: Full Stack Web, Cybersecurity, AI Projects, IoT
 🎓 Education
-Institution
-
-Degree
-
-Duration
-
-VPPCOE** (Mumbai University)
-
-B.E. in Information Technology
-
-Aug 2023 – May 2027
-
-Ramnivas Ruia Junior College
-
-Higher Secondary School
-
-Aug 2021 – March 2023
-
-Atomic Energy Central School-6
-
-Central Board of Secondary Education
-
-2016 – Aug 2021
-
+Institution	Degree	Duration
+VPPCOE (Mumbai University)	B.E. in Information Technology	Aug 2023 – May 2027
+Ramnivas Ruia Junior College	Higher Secondary School	Aug 2021 – March 2023
+Atomic Energy Central School 6	CBSE	2016 – Aug 2021
 💼 Experience
-<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" alt="BARC Logo" width="100" /> <br> <b>Project Trainee</b> – <b>Bhabha Atomic Research Centre (BARC)</b> <br> <i>Security Electronics & Cyber Technology Division, Mumbai</i> <br> <span style="color: #888;">Jan 2026 – Feb 2026</span> </div>
-Developed an unsupervised network anomaly detection system using multiple autoencoders to model normal traffic behavior.
-Worked with Scientific Officers in a high-security research environment, gaining exposure to real-world cybersecurity analytics.
-Performed feature extraction, data preprocessing, and threshold tuning on network traffic datasets.
-Evaluated detection performance on large-scale IoT attack traffic datasets exceeding 100k+ flows.
-<div align="center"> <!-- ⚠️ REPLACE THE SRC BELOW WITH YOUR OWN VPPCOE LOGO URL IF AVAILABLE --> <img src="https://via.placeholder.com/150x50?text=VPPCOE+Logo" alt="VPPCOE Logo" width="100" /> <br> <b>Student Coordinator</b> – <b>Training & Placement Office</b> <br> <i>VPPCOE Sion, Mumbai</i> <br> <span style="color: #888;">Feb 2025 – Aug 2025</span> </div>
-Volunteered at a national-level hackathon Quasar 3.0, ensuring smooth event execution and troubleshooting.
-Assisted in coordinating campus recruitment drives and student–company interactions.
-🧠 Tech Stack
-yaml
+<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" width="100" /> <br> <b>Project Trainee</b> at <b>Bhabha Atomic Research Centre</b> <br> <i>Security Electronics and Cyber Technology Division, Mumbai</i> <br> <span style="color:#888;">Jan 2026 – Feb 2026</span> </div>
 
-Copy code
-Languages: [Java, Python, JavaScript, TypeScript, C++, HTML/CSS, SQL]
+Built an unsupervised network anomaly detection system using an ensemble of autoencoders
+
+Modeled normal traffic behavior and detected anomalies using reconstruction error thresholds
+
+Performed feature extraction, preprocessing, and threshold tuning on network datasets
+
+Evaluated performance on IoT attack traffic datasets exceeding 100k plus flows
+
+Collaborated with Scientific Officers in a high security research environment
+
+<br> <div align="center"> <img src="https://via.placeholder.com/150x50?text=VPPCOE+Logo" width="100" /> <br> <b>Student Coordinator</b> at <b>Training and Placement Office</b> <br> <i>VPPCOE Sion, Mumbai</i> <br> <span style="color:#888;">Feb 2025 – Aug 2025</span> </div>
+
+Coordinated logistics for national level hackathon Quasar 3.0
+
+Supported campus recruitment drives and student company interactions
+
+Helped troubleshoot event and placement workflow issues
+
+🧠 Tech Stack
+Languages: [Java, Python, JavaScript, TypeScript, C plus plus, HTML, CSS, SQL]
 Frameworks: [React, Next.js, Node.js, Flask, Express, TensorFlow, Keras]
 Tools: [Git, Docker, Figma, VS Code, Postman, Firebase, Vercel]
-Cloud & APIs: [Firebase Auth, Firestore, GCP, OpenRouter (Claude), RESTful]
+Cloud and APIs: [Firebase Auth, Firestore, Google Cloud, OpenRouter, REST]
 Other: [Responsive UI, RBAC, PDF Generation, Heatmap Visualization]
 ⚡ Fun Fact
-I'm building SwasthyaSetu, an offline-first telemedicine system connecting rural patients to doctors via IVR and Bluetooth Mesh. No internet? No problem! 📡🏥
+
+I am building SwasthyaSetu, an offline first telemedicine system connecting rural patients to doctors via IVR and Bluetooth Mesh. No internet required.
 
 🚀 Featured Projects
-SwasthyaSetu | Rural Healthcare Connectivity
 
+SwasthyaSetu | Rural Healthcare Connectivity
 Tech: IVR, Python, Bluetooth Mesh
 Status: Sept 2025 – Present
-Details: Offline-first telemedicine system connecting rural patients with doctors. Features unique patient ID generation, symptom-to-specialist triage, and automated report delivery. Validated by Dr. R. N. Cooper Hospital.
-NutriLens | AI-Powered Nutrition Assistant
 
+Offline first telemedicine platform
+
+Unique patient ID generation and symptom triage
+
+Automated medical report delivery
+
+Validated by Dr R N Cooper Hospital
+
+NutriLens | AI Powered Nutrition Assistant
 Tech: Next.js, React, TailwindCSS, Firebase
 Status: April 2025 – Present
-Details: Production-grade web app analyzing food images for real-time nutritional insights using AI. Clean architecture and scalable backend.
-Captcha OCR Cropper | VS Code Extension
 
+Production grade web app for food nutrition analysis
+
+Real time AI image based insights
+
+Scalable clean architecture
+
+Captcha OCR Cropper | VS Code Extension
 Tech: VS Code API, OCR.space
-Details: A VS Code extension allowing users to crop images and run OCR on the selected area directly within the editor.
+
+Crop any image inside VS Code and run OCR on selected region
+
+Lightweight developer productivity extension
+
 📜 Certifications
-Cloud Computing – NPTEL, IIT Kharagpur (Oct 2025)
+
+Cloud Computing – NPTEL IIT Kharagpur, Oct 2025
 Credential ID: NPTEL25CS107S463702907
-Python for Data Science – NPTEL, IIT Madras (Apr 2025)
+
+Python for Data Science – NPTEL IIT Madras, Apr 2025
 Credential ID: NPTEL25CS60S440202799
+
 📊 GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryangaikwadsql&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryangaikwadsql&theme=tokyonight" /> </p>
 🧩 Dev Vibes
-<div align="center"> <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" alt="snake animation" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" /> </div>
 🎮 Bonus Bytes
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aryangaikwadsql&theme=dracula&column=6" /> </div>
-📬 Want to connect?
-LinkedIn: aryan-g-3093862ab
-GitHub: Aryangaikwadsql
-Portfolio: myportfolio-ztso.vercel.app
+📬 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/aryan-g-3093862ab
+
+GitHub: https://github.com/Aryangaikwadsql
+
+Portfolio: https://myportfolio-ztso.vercel.app
