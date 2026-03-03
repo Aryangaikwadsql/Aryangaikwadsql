@@ -197,21 +197,6 @@ me.say_hi()
       🖼️ Crop any image inside VS Code<br/>
       🔍 Run OCR on selected region instantly<br/>
       ⚡ Lightweight developer productivity tool
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 BARC Anomaly Detector</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Research-FF6B35?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Type-ML%20System-9D00FF?style=for-the-badge"/>
-      </div><br/>
-      <b>Network Intrusion Detection via Autoencoders</b><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <br/><br/>
-      🧠 Ensemble autoencoders on 100k+ network flows<br/>
-      📊 Reconstruction error threshold tuning<br/>
-      🏛️ Built at BARC's Cyber Security Division
-    </td>
   </tr>
 </table>
 
