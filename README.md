@@ -279,7 +279,7 @@ me.say_hi()
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"/>
   &nbsp;
-  <em><b>I love connecting with people</b> — if you want to say hi or collab, DMs are open! 👇</em>
+  <em><b>I love connecting with people</b> if you want to say hi or collab, DMs are open! 👇</em>
 </div>
 
 <br/>
