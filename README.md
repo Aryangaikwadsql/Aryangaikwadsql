@@ -1,109 +1,194 @@
-<!-- README.md -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-stack+Web+Dev+%7C+Cybersecurity+Nerd+%7C+Tech+Visionary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aryan+Gaikwad+%F0%9F%91%8A;Full-Stack+Dev+%7C+Cybersecurity+Nerd;AI+%7C+IoT+%7C+Tech+Visionary;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/aryan-g-3093862ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Aryangaikwadsql"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://myportfolio-ztso.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="220px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
 </div>
 
 ---
 
-### 👨‍💻 Who Am I
+## 👨‍💻 About Me
 
 ```yaml
-Name: Aryan Gaikwad
-Location: Mumbai, India 🇮🇳
-University: Vasantdada Patil Pratishthan's College of Engineering (VPPCOE)
-Degree: B.E. in Information Technology (Aug 2023 – May 2027)
-CGPA: 8.29/10
-Focus: Full Stack Web, Cybersecurity, AI Projects, IoT
-🎓 Education
-Institution	Degree	Duration
-VPPCOE (Mumbai University)	B.E. in Information Technology	Aug 2023 – May 2027
-Ramnivas Ruia Junior College	Higher Secondary School	Aug 2021 – March 2023
-Atomic Energy Central School 6	CBSE	2016 – Aug 2021
-💼 Experience
-<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" width="100" /> <br> <b>Project Trainee</b> at <b>Bhabha Atomic Research Centre</b> <br> <i>Security Electronics and Cyber Technology Division, Mumbai</i> <br> <span style="color:#888;">Jan 2026 – Feb 2026</span> </div>
+Name        : Aryan Gaikwad
+Location    : Mumbai, India 🇮🇳
+University  : VPPCOE B.E. in Information Technology (2023–2027)
+CGPA        : 8.29 / 10
+Interests   : Full-Stack Web · Cybersecurity · AI/ML · IoT
+```
 
-Built an unsupervised network anomaly detection system using an ensemble of autoencoders
+---
 
-Modeled normal traffic behavior and detected anomalies using reconstruction error thresholds
+## 🎓 Education
 
-Performed feature extraction, preprocessing, and threshold tuning on network datasets
+| 🏫 Institution | 🎓 Degree / Level | 📅 Duration |
+|---|---|---|
+| **VPPCOE, Mumbai University** | B.E. in Information Technology | Aug 2023 – May 2027 |
+| Ramnivas Ruia Junior College | Higher Secondary (HSC) | Aug 2021 – Mar 2023 |
+| Atomic Energy Central School 6 | CBSE (10th) | 2016 – Aug 2021 |
 
-Evaluated performance on IoT attack traffic datasets exceeding 100k plus flows
+---
 
-Collaborated with Scientific Officers in a high security research environment
+## 💼 Experience
 
-<br> <div align="center"> <img src="https://via.placeholder.com/150x50?text=VPPCOE+Logo" width="100" /> <br> <b>Student Coordinator</b> at <b>Training and Placement Office</b> <br> <i>VPPCOE Sion, Mumbai</i> <br> <span style="color:#888;">Feb 2025 – Aug 2025</span> </div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Bhabha_Atomic_Research_Centre_logo.png" width="80" />
+    </td>
+    <td>
+      <b>🔬 Project Trainee — Bhabha Atomic Research Centre (BARC)</b><br/>
+      <i>Security Electronics & Cyber Technology Division, Mumbai</i><br/>
+      <code>Jan 2026 – Feb 2026</code><br/><br/>
+      - Built an <b>unsupervised network anomaly detection system</b> using ensemble autoencoders<br/>
+      - Modeled normal traffic & detected anomalies via reconstruction error thresholds<br/>
+      - Feature extraction & threshold tuning on datasets exceeding <b>100k+ flows</b><br/>
+      - Evaluated on IoT attack traffic datasets; collaborated with Scientific Officers in high-security environment
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://via.placeholder.com/80x80?text=VPPCOE" width="80" />
+    </td>
+    <td>
+      <b>🎯 Student Coordinator — Training & Placement Office, VPPCOE</b><br/>
+      <i>Sion, Mumbai</i><br/>
+      <code>Feb 2025 – Aug 2025</code><br/><br/>
+      - Coordinated smooth debugging support and technical issue resolution during national level hackathon <b>Quasar 3.0</b><br/>    
+      - Supported campus recruitment drives & student–company interactions<br/>
+      - Resolved event and placement workflow issues in real-time
+    </td>
+  </tr>
+</table>
 
-Coordinated logistics for national level hackathon Quasar 3.0
+---
 
-Supported campus recruitment drives and student company interactions
+## 🚀 Featured Projects
 
-Helped troubleshoot event and placement workflow issues
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 SwasthyaSetu</h3>
+      <b>Rural Healthcare Connectivity Platform</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IVR-FF6B35?style=flat"/>
+      <img src="https://img.shields.io/badge/Bluetooth_Mesh-0082FC?style=flat&logo=bluetooth&logoColor=white"/>
+      <br/><br/>
+      📡 Offline-first telemedicine — <b>no internet required</b><br/>
+      🪪 Unique patient ID generation & symptom triage<br/>
+      📋 Automated medical report delivery<br/>
+      ✅ Validated by <b>Dr R N Cooper Hospital</b><br/>
+      <br/>
+      <code>Sept 2025 – Present</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 NutriLens</h3>
+      <b>AI-Powered Nutrition Assistant</b><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      🍱 Real-time AI image-based food nutrition analysis<br/>
+      ⚙️ Production-grade, scalable clean architecture<br/>
+      📊 Detailed macro/micro nutrient breakdowns<br/>
+      <br/>
+      <code>April 2025 – Present</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✂️ Captcha OCR Cropper</h3>
+      <b>VS Code Extension</b><br/>
+      <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OCR.space-4B0082?style=flat"/>
+      <br/><br/>
+      🖼️ Crop any image inside VS Code<br/>
+      🔍 Run OCR on selected region instantly<br/>
+      ⚡ Lightweight developer productivity tool
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 More Coming Soon...</h3>
+      <br/>
+      Always building, always shipping 🚢<br/>
+      Check my <a href="https://github.com/Aryangaikwadsql?tab=repositories">GitHub repos</a> for the latest!
+    </td>
+  </tr>
+</table>
 
-🧠 Tech Stack
-Languages: [Java, Python, JavaScript, TypeScript, C plus plus, HTML, CSS, SQL]
-Frameworks: [React, Next.js, Node.js, Flask, Express, TensorFlow, Keras]
-Tools: [Git, Docker, Figma, VS Code, Postman, Firebase, Vercel]
-Cloud and APIs: [Firebase Auth, Firestore, Google Cloud, OpenRouter, REST]
-Other: [Responsive UI, RBAC, PDF Generation, Heatmap Visualization]
-⚡ Fun Fact
+---
 
-I am building SwasthyaSetu, an offline first telemedicine system connecting rural patients to doctors via IVR and Bluetooth Mesh. No internet required.
+## 🧠 Tech Stack
 
-🚀 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css,sql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark" />
+</p>
 
-SwasthyaSetu | Rural Healthcare Connectivity
-Tech: IVR, Python, Bluetooth Mesh
-Status: Sept 2025 – Present
+---
 
-Offline first telemedicine platform
+## 📜 Certifications
 
-Unique patient ID generation and symptom triage
+| 🏅 Certificate | 🏫 Issuer | 📅 Date | 🔑 Credential ID |
+|---|---|---|---|
+| ☁️ Cloud Computing | NPTEL — IIT Kharagpur | Oct 2025 | `NPTEL25CS107S463702907` |
+| 🐍 Python for Data Science | NPTEL — IIT Madras | Apr 2025 | `NPTEL25CS60S440202799` |
 
-Automated medical report delivery
+---
 
-Validated by Dr R N Cooper Hospital
+## 📊 GitHub Stats
 
-NutriLens | AI Powered Nutrition Assistant
-Tech: Next.js, React, TailwindCSS, Firebase
-Status: April 2025 – Present
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryangaikwadsql&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryangaikwadsql&theme=tokyonight&hide_border=true" />
+</p>
 
-Production grade web app for food nutrition analysis
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangaikwadsql&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Real time AI image based insights
+---
 
-Scalable clean architecture
+## 🏆 GitHub Trophies
 
-Captcha OCR Cropper | VS Code Extension
-Tech: VS Code API, OCR.space
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryangaikwadsql&theme=dracula&no-frame=true&column=7&margin-w=4" />
+</p>
 
-Crop any image inside VS Code and run OCR on selected region
+---
 
-Lightweight developer productivity extension
+## 🐍 Contribution Snake
 
-📜 Certifications
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-Cloud Computing – NPTEL IIT Kharagpur, Oct 2025
-Credential ID: NPTEL25CS107S463702907
+---
 
-Python for Data Science – NPTEL IIT Madras, Apr 2025
-Credential ID: NPTEL25CS60S440202799
+## 📬 Let's Connect
 
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryangaikwadsql&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryangaikwadsql&theme=tokyonight" /> </p>
-🧩 Dev Vibes
-<div align="center"> <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" /> </div>
-🎮 Bonus Bytes
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aryangaikwadsql&theme=dracula&column=6" /> </div>
-📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-g-3093862ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aryangaikwadsql">
+    <img src="https://img.shields.io/badge/GitHub-Aryangaikwadsql-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://myportfolio-ztso.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-LinkedIn: https://www.linkedin.com/in/aryan-g-3093862ab
-
-GitHub: https://github.com/Aryangaikwadsql
-
-Portfolio: https://myportfolio-ztso.vercel.app
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
