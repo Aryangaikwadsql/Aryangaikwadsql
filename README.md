@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/aryan-g-3093862ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Aryangaikwadsql"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://myportfolio-ztso.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-aryan-gaikwad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <div align="center">
