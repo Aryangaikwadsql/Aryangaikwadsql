@@ -22,31 +22,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-╔══════════════════════════════════════════╗
-║         ARYAN GAIKWAD v2.0              ║
-╠══════════════════════════════════════════╣
-║  Name     : Aryan Gaikwad               ║
-║  Location : Mumbai, India 🇮🇳            ║
-║  Uni      : VPPCOE (IT, 2023-2027)      ║
-║  Mode     : Always Building 🔨          ║
-║  Status   : Debugging Life... 🐛        ║
-╠══════════════════════════════════════════╣
-║  Interests:                             ║
-║  ⚡ Full-Stack Web Development          ║
-║  🔐 Cybersecurity & Network Defense     ║
-║  🤖 AI/ML & Anomaly Detection           ║
-║  📡 IoT & Embedded Systems              ║
-╚══════════════════════════════════════════╝
-```
-
-<br clear="right"/>
-
 ---
 
 <div align="center">
@@ -54,36 +29,6 @@
   &nbsp;&nbsp;<b>What I'm currently hacking on</b>&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </div>
-
-<br/>
-
-```python
-class AryanGaikwad:
-    def __init__(self):
-        self.name       = "Aryan Gaikwad"
-        self.role       = "Full-Stack Dev & Cybersecurity Enthusiast"
-        self.languages  = ["Python", "JavaScript", "TypeScript", "Java", "C++", "SQL"]
-        self.currently  = [
-            "🏥 SwasthyaSetu — offline telemedicine via IVR + BT Mesh",
-            "🥗 NutriLens — AI nutrition analysis app",
-            "🔐 Exploring network intrusion detection systems"
-        ]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something insane together 🔥")
-
-me = AryanGaikwad()
-me.say_hi()
-```
-
-## 🎓 Education
-
-| 🏫 Institution | 🎓 Degree | 📅 Duration |
-|:---:|:---:|:---:|
-| **VPPCOE, Mumbai University** | B.E. Information Technology | Aug 2023 – May 2027 |
-| Ramnivas Ruia Junior College | Higher Secondary (HSC) | Aug 2021 – Mar 2023 |
-| Atomic Energy Central School 6 | CBSE (10th) | 2016 – Aug 2021 |
-
 ---
 
 ## 💼 Experience
@@ -149,7 +94,7 @@ me.say_hi()
       <br/><code>Sept 2025 – Present</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🥗 NutriLens</h3>
+      <h3 align="center">NutriLens</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Active-00FF88?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/AI-Powered-9D00FF?style=for-the-badge"/>
@@ -167,7 +112,7 @@ me.say_hi()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✂️ Captcha OCR Cropper</h3>
+      <h3 align="center">Captcha OCR Cropper</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Shipped-00F7FF?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Type-VS%20Code%20Ext-007ACC?style=for-the-badge"/>
@@ -185,7 +130,7 @@ me.say_hi()
       <div align="center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
       </div><br/>
-      Always building, always shipping 🚢<br/>
+      "The important thing is to never stop questioning." <br/>
       Check <a href="https://github.com/Aryangaikwadsql?tab=repositories">my repos</a> for the latest!
     </td>
   </tr>
@@ -193,7 +138,7 @@ me.say_hi()
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
   &nbsp;&nbsp;<b>Languages</b>&nbsp;&nbsp;
@@ -223,7 +168,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryangaikwadsql&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=9D00FF&text_color=ffffff" />
@@ -233,16 +178,6 @@ me.say_hi()
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangaikwadsql&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryangaikwadsql&theme=radical&no-frame=true&column=7&margin-w=4" />
-</p>
-
----
 
 ## 📜 Certifications
 
@@ -259,20 +194,6 @@ me.say_hi()
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 ## 📬 Let's Connect & Build Something Insane
 
