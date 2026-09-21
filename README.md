@@ -24,9 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  &nbsp;&nbsp;<b>What I'm currently hacking on</b>&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  <img src="https://giphy.com/gifs/reaction-a5viI92PAF89q" width="300"
 </div>
 
 ## 💼 Experience
@@ -61,7 +59,6 @@
   </tr>
 </table>
 
----
 
 ## 🚀 Featured Projects
 
