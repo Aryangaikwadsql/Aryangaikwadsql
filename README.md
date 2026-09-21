@@ -22,14 +22,12 @@
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   &nbsp;&nbsp;<b>What I'm currently hacking on</b>&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </div>
----
 
 ## 💼 Experience
 
