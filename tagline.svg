@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="720" height="96" viewBox="0 0 720 96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <style>
+    .a { fill: #6e7681; }
+    @media (prefers-color-scheme: dark) { .a { fill: #c9d1d9; } }
+  </style>
+  <text x="18" y="38" class="a" font-size="24" font-weight="600">Hey there, I'm Aryan Gaikwad</text>
+  <text x="18" y="68" class="a" font-size="15">Cybersecurity — building tools that get used</text>
+</svg>
