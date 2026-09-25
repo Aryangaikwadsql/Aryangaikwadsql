@@ -161,7 +161,6 @@
   &nbsp;&nbsp;
   <img src="https://mma.prnewswire.com/media/1918751/Corelight_Inc__Open_source_Zeek_is_now_a_component_of_Microsoft_Windows_and_Microsoft_Defender_Logo.jpg" width="48" height="48" title="Zeek" style="object-fit:contain"/>
   &nbsp;&nbsp;
-  <img src="assets/cicflowmeter.png" width="48" height="48" title="CICFlowMeter"/>
 </p>
 
 ## 📜 Certifications
@@ -199,7 +198,7 @@
     <img src="https://img.shields.io/badge/GitHub-Aryangaikwadsql-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfolio-aryan-gaikwad.vercel.app/">
+  <a href="https://aryangaikwad.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
