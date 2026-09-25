@@ -155,9 +155,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Suricata-3777A4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zeek-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CICFlowMeter-6A1B9A?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wireshark.svg" width="48" height="48" title="Wireshark" style="background:#1679A7;border-radius:8px;padding:6px"/>
+  &nbsp;&nbsp;
+  <img src="assets/suricata.png" width="48" height="48" title="Suricata"/>
+  &nbsp;&nbsp;
+  <img src="assets/zeek.png" width="48" height="48" title="Zeek"/>
+  &nbsp;&nbsp;
+  <img src="assets/cicflowmeter.png" width="48" height="48" title="CICFlowMeter"/>
 </p>
 
 ## 📜 Certifications
