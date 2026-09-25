@@ -153,11 +153,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryangaikwadsql&theme=react-dark&bg_color=0d1117&color=00F7FF&line=9D00FF&point=00FF88&area=true&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 ## GitHub Stats
