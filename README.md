@@ -151,7 +151,14 @@
 <div align="center"><b>Tools & Cloud</b></div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,suricata,zeek,Cicflowmeter,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Suricata-3777A4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zeek-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CICFlowMeter-6A1B9A?style=for-the-badge"/>
+</p>
 
 ## 📜 Certifications
 
@@ -188,7 +195,7 @@
     <img src="https://img.shields.io/badge/GitHub-Aryangaikwadsql-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://aryangaikwad.vercel.app/">
+  <a href="https://portfolio-aryan-gaikwad.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
