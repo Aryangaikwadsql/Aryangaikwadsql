@@ -151,7 +151,7 @@
 <div align="center"><b>Tools & Cloud</b></div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,suricata,zeek,Cicflowmeter,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
 
 ---
 
