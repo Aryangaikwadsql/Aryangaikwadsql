@@ -153,19 +153,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,suricata,zeek,Cicflowmeter,docker,figma,vscode,postman,firebase,vercel,gcp&theme=dark&perline=8" />
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryangaikwadsql&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=9D00FF&text_color=ffffff" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Aryangaikwadsql&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF4444&currStreakLabel=00F7FF" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangaikwadsql&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
-</p>
-
 ## 📜 Certifications
 
 <p align="center">
