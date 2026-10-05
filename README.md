@@ -20,10 +20,33 @@
 
 ### 👋 About Me
 * 🐍 **Focus:** Python, Machine Learning & Cybersecurity
-* ⚙️ **Stack:** Python, C++, PyTorch, Docker, Linux
+* ⚙️ **Specialty:** High-throughput data pipelines, anomaly detection & packet analysis
 
 ---
 
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,docker,linux,pytorch,git&theme=dark" />
+  <!-- Languages -->
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css&theme=dark" />
+  <br/><br/>
+  
+  <!-- Frameworks & Libraries -->
+  <p><b>Frameworks & Libraries</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow,pytorch&theme=dark" />
+  <br/><br/>
+  
+  <!-- Tools & Cloud -->
+  <p><b>Tools & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp,linux&theme=dark" />
+  <br/><br/>
+
+  <!-- Security Tools -->
+  <p><b>Security & Telemetry Tools</b></p>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wireshark.webp" width="40" height="40" title="Wireshark"/>
+  &nbsp;&nbsp;
+  <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" width="40" height="40" title="Suricata"/>
+  &nbsp;&nbsp;
+  <img src="https://mma.prnewswire.com/media/1918751/Corelight_Inc__Open_source_Zeek_is_now_a_component_of_Microsoft_Windows_and_Microsoft_Defender_Logo.jpg" width="40" height="40" title="Zeek" style="object-fit:contain"/>
 </div>
