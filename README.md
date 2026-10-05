@@ -19,7 +19,7 @@
 ---
 
 ### 👋 About Me
-* 🐍 **Focus:** Python, Machine Learning & Cybersecurity
+* 🐧 **Focus:** Linux Systems, Machine Learning & Cybersecurity
 * ⚙️ **Specialty:** High-throughput data pipelines, anomaly detection & packet analysis
 
 ---
@@ -29,17 +29,17 @@
 <div align="center">
   <!-- Languages -->
   <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css&theme=dark" />
   <br/><br/>
   
+  <!-- Tools & OS -->
+  <p><b>OS, Tools & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,postman,firebase,vercel,gcp,figma&theme=dark" />
+  <br/><br/>
+
   <!-- Frameworks & Libraries -->
   <p><b>Frameworks & Libraries</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,express,tensorflow,pytorch&theme=dark" />
-  <br/><br/>
-  
-  <!-- Tools & Cloud -->
-  <p><b>Tools & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman,firebase,vercel,gcp,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,flask,express&theme=dark" />
   <br/><br/>
 
   <!-- Security Tools -->
