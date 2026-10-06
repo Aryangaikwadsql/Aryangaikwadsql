@@ -9,6 +9,7 @@ def convert_jpg_to_balanced_dot_svg(
     max_radius=4.5,         # Allows bright areas to touch/overlap (max gap coverage = 4.0+)
     min_brightness=0.01,    # Lower threshold to keep subtle dark detail
     gamma=0.5,              # Values < 1.0 lift mid-tones and stop image from looking too dark
+    horizontal_scale=1.2,   # Widen the generated portrait without changing its height
     bg_color="#0d1117"      # Set to "#ffffff" for a white background
 ):
     img = Image.open(image_path).convert("RGB")
@@ -19,11 +20,12 @@ def convert_jpg_to_balanced_dot_svg(
     
     img_resized = img.resize((grid_w, grid_h), Image.Resampling.LANCZOS)
     
-    svg_width = grid_w * dot_spacing
+    viewbox_width = grid_w * dot_spacing
+    svg_width = int(viewbox_width * horizontal_scale)
     svg_height = grid_h * dot_spacing
     
     svg_lines = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}" style="background-color: {bg_color};">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {viewbox_width} {svg_height}" preserveAspectRatio="none" style="background-color: {bg_color};">',
         '  <style>',
         '    @keyframes reveal { to { opacity: 1; } }',
         '    .dot { opacity: 0; animation: reveal .18s ease-out var(--reveal-delay) forwards; }',
