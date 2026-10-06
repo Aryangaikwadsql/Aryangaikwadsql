@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="portrait_dots.svg" width="300" alt="Aryan Gaikwad dot portrait">
+  <img src="portrait_dots.svg" width="420" alt="Aryan Gaikwad dot portrait">
 
   <br/>
 
