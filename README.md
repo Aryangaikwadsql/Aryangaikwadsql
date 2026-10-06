@@ -1,70 +1,82 @@
 <div align="center">
-  <!-- Glowing Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,20,28&height=150&section=header&text=Aryan%20Gaikwad&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
-  <!-- SpongeBob GIF -->
-  <img src="https://media.giphy.com/media/QVgP8ntqkay08/giphy.gif" width="340" alt="SpongeBob GIF" />
+  <img src="portrait_dots.svg" width="300" alt="Aryan Gaikwad dot portrait">
 
   <br/><br/>
 
-  <!-- Glowing Badges & View Counter -->
+  <!-- Animated profile header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,20,28&height=150&section=header&text=Aryan%20Gaikwad&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Aryan Gaikwad profile header">
+
+  <br/><br/>
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=⚡+Profile+Views&color=00F7FF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=Aryangaikwadsql&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views">
+    <img src="https://img.shields.io/badge/Open%20to-Opportunities-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to opportunities">
   </p>
 
-  <!-- Social Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/aryan-g-3093862ab">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
     <a href="https://aryangaikwad.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
   </p>
 </div>
 
-<!-- Glowing Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
-### 👋 About Me
-* 🐧 **Focus:** Linux Systems, Machine Learning & Cybersecurity
-* ⚙️ **Specialty:** High-throughput data pipelines, anomaly detection & packet analysis
+### About Me
+- **Focus:** Linux systems, machine learning, and cybersecurity
+- **Specialty:** High-throughput data pipelines, anomaly detection, and packet analysis
 
-<!-- Glowing Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
-  <!-- OS, Tools & Cloud (Linux First) -->
-  <p><b>OS, Tools & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,postman,firebase,vercel,gcp,figma&theme=dark" />
+  <p><b>OS, Tools &amp; Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,postman,firebase,vercel,gcp,figma&theme=dark" alt="Linux, tools, and cloud technologies">
   <br/><br/>
 
-  <!-- Languages -->
   <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css&theme=dark" />
-  <br/><br/>
-  
-  <!-- Frameworks & Libraries -->
-  <p><b>Frameworks & Libraries</b></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,flask,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css&theme=dark" alt="Programming languages">
   <br/><br/>
 
-  <!-- Security Tools -->
-  <p><b>Security & Telemetry Tools</b></p>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wireshark.webp" width="40" height="40" title="Wireshark"/>
+  <p><b>Frameworks &amp; Libraries</b></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,flask,express&theme=dark" alt="Frameworks and libraries">
+  <br/><br/>
+
+  <p><b>Security &amp; Telemetry Tools</b></p>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wireshark.webp" width="40" height="40" title="Wireshark" alt="Wireshark">
   &nbsp;&nbsp;
-  <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" width="40" height="40" title="Suricata"/>
+  <img src="https://suricata.io/wp-content/uploads/2023/09/Suricata_logo_600x600-1.png" width="40" height="40" title="Suricata" alt="Suricata">
   &nbsp;&nbsp;
-  <img src="https://mma.prnewswire.com/media/1918751/Corelight_Inc__Open_source_Zeek_is_now_a_component_of_Microsoft_Windows_and_Microsoft_Defender_Logo.jpg" width="40" height="40" title="Zeek" style="object-fit:contain"/>
+  <img src="https://mma.prnewswire.com/media/1918751/Corelight_Inc__Open_source_Zeek_is_now_a_component_of_Microsoft_Windows_and_Microsoft_Defender_Logo.jpg" width="40" height="40" title="Zeek" alt="Zeek">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
+
+<div align="center">
+
+### Contribution Calendar
+
+<!-- Generated by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric GitHub contribution calendar">
+
+<br/><br/>
+
+<!-- Generated by .github/workflows/snake.yml on the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Aryangaikwadsql/Aryangaikwadsql/output/snake.svg" width="100%" alt="Snake animation eating the contribution graph">
+</picture>
+
 </div>
 
 <br/>
 
-<!-- Glowing Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,20,28&height=120&section=footer&animation=twinkling&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,20,28&height=120&section=footer&animation=twinkling&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="Thanks for stopping by">
 </div>
