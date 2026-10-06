@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="896" viewBox="0 0 1200 896" preserveAspectRatio="none" style="background-color: #0d1117;">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="896" viewBox="0 0 1200 896" style="background-color: #0d1117;">
   <style>
     @keyframes reveal { to { opacity: 1; } }
     .dot { opacity: 0; animation: reveal .18s ease-out var(--reveal-delay) forwards; }
